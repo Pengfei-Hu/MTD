@@ -22,7 +22,6 @@ python runner/infer.py --cfg default
 
 
 ## Citation
-
 If you find our paper useful in your research, please consider citing:
 
 ```
