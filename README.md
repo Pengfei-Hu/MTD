@@ -5,7 +5,7 @@ This repository contains the source code of: [Multimodal Tree Decoder for Table 
 To execute this code, it is mandatory to prepare the following:
 * Bert Model
 * Pretrained ResNet-34 weights
-* Download the proposed dataset [HierDoc](https://drive.google.com/file/d/10oFqigjt73GWc7UxPxJXDSjz1IkGTPe1/view?usp=sharing)
+* The proposed dataset [HierDoc](https://drive.google.com/file/d/10oFqigjt73GWc7UxPxJXDSjz1IkGTPe1/view?usp=sharing)
 
 The Bert Model is available [here](https://github.com/huggingface/transformers). We recommend pretraining the ResNet-34 on scientific papers with a text detection task.
 
